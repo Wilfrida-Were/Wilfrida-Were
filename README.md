@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, programming, Finance, Renewable energy, music and films, and comic books
 - 🌱 I’m currently learning and engaging with data science concepts everyday
 - 💞️ I’m looking to collaborate on open source projects in my areas of interest
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/wilfridawere/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/wilfridawere/)
 
 <!---
 Wilfrida-Were/Wilfrida-Were is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
