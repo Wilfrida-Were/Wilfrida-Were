@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wilfrida-Were
+- 👋 Hi, I’m Wilfrida Were
 - 👀 Check out my website. I offer Data Cleaning and Visualisation services. You'll see my Portfolio too!
-- 👀 I’m interested in Data Science, IT, music and films, football, puzzles and comic books
+- 👀 I’m interested in Data Science, IT, music, films, football, puzzles and comic books
 - 🌱 I’m currently learning and engaging with data science and ML concepts everyday
 - 💞️ I’m looking to collaborate on open source projects in my areas of interest
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/wilfridawere/)
