@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wilfrida Were
-- 👀 Check out my [Website](https://www.wilfridawere.com/). I offer Data Cleaning and Visualisation services.
+- 👀 Check out my [Website](https://www.wilfridawere.com/).
 - 💞️ I’m looking to collaborate on open source projects in my areas of interest
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/wilfridawere/)
 
