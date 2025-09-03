@@ -3,6 +3,8 @@
 💡 **Data Analyst & Consultant** on a mission to make data work for you without confusion.  
 📊 Here I **learn, grow, share & teach** through projects, case studies, and insights.  
 
+⚙️ **Skills:** SQL | Python | DBT | Tableau | Power BI | Metabase | Azure | Excel | Google Sheets
+
 ⬇️ **Check out my work below!**  
 
 ## 🔗 Let’s Connect  
