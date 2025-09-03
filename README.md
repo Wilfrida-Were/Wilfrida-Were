@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m Wilfrida Were  
 
-💡 **Data Analyst & Consultant** on a mission to make data work for you — without confusion.  
+💡 **Data Analyst & Consultant** on a mission to make data work for you without confusion.  
 📊 Here I **learn, grow, share & teach** through projects, case studies, and insights.  
 
 ⬇️ **Check out my work below!**  
