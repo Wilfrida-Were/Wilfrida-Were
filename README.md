@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Wilfrida Were
-- 👀 Check out my [Website](https://www.wilfridawere.com/).
-- 💞️ I’m looking to collaborate on open source projects in my areas of interest
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/wilfridawere/)
+# 🌟 Hi, I’m Wilfrida Were  
 
-<!---
-Wilfrida-Were/Wilfrida-Were is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **Data Analyst & Consultant** on a mission to make data work for you — without confusion.  
+📊 Here I **learn, grow, share & teach** through projects, case studies, and insights.  
+
+⬇️ **Check out my work below!**  
+
+## 🔗 Let’s Connect  
+
+If my work was helpful or inspiring, feel free to connect, follow, or support:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/wilfridawere/)  
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=google-chrome)](https://www.wilfridawere.com/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=flat&logo=kaggle)](https://kaggle.com/wilfridawere)  
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Wilfrida-Were)  
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/)  
