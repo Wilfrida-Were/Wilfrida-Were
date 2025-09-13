@@ -1,6 +1,7 @@
 # 🌟 Hi, I’m Wilfrida Were  
 
 💡 **Data & AI Consultant** on a mission to help Businesses & Creators use Data & AI to cut costs, increase revenue, and save time. 
+
 📊 Here I **learn, grow, share & teach** through projects, case studies, and insights.  
 
 ⚙️ **Skills:** SQL | Python | DBT | Tableau | Power BI | Metabase | Azure | Excel | Google Sheets
