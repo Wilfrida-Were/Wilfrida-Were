@@ -6,14 +6,20 @@
 
 ⚙️ **Skills:** SQL | Python | DBT | Tableau | Power BI | Metabase | Azure | Excel | Google Sheets
 
-⬇️ **Check out my work below!**  
+⬇️ **Check out my work below!: PORTFOLIO Wilfrida Were**  
 
 ## 🔗 Let’s Connect  
 
-If my work was helpful or inspiring, feel free to connect, follow, or support:  
+Feel free to connect, follow, or support:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/wilfridawere/)  
+
+[![Twitter](https://img.shields.io/badge/X-Follow-black?style=flat&logo=twitter)](https://x.com/wilfridawere)  
+
 [![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat&logo=google-chrome)](https://www.wilfridawere.com/)  
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=flat&logo=kaggle)](https://kaggle.com/wilfridawere)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Wilfrida-Were)  
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/)  
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/)
