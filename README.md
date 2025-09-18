@@ -21,5 +21,3 @@ Feel free to connect, follow, or support:
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=flat&logo=kaggle)](https://kaggle.com/wilfridawere)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Wilfrida-Were)  
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=flat&logo=ko-fi)](https://ko-fi.com/wilfridawere/)
