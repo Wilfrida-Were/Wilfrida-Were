@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m Wilfrida Were  
 
-💡 **Data & AI Consultant** on a mission to help Businesses & Creators use Data & AI to cut costs, increase revenue, and save time. 
+💡 **Data & AI Consultant** on a mission to help Founders turn Data into clear, confident decisions
 
 📊 Here I **share & teach** through case studies, insights and tailored recommendations.
 
