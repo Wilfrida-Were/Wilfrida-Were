@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m Wilfrida Were  
 
-💡 **Data & AI Consultant** on a mission to help Founders turn Data into clear, confident decisions
+💡 **Data & AI Consultant** on a mission to make data and AI simple, clear, and actionable for everyone. I help founders, teams, and individuals cut through the noise by translating complex tools and analytics into clear insights and confident decisions. 💡
 
 📊 Here I **share & teach** through case studies, insights and tailored recommendations.
 
